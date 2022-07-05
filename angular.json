@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "TourOfHeros"
+  "cli": {
+    "analytics": false
+  }
 }
